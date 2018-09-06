@@ -1,0 +1,7 @@
+QuizEngineBackend/.vscode/**
+QuizEngineBackend/.vs/**
+QuizEngineBackend/QuizServer/.vscode/**
+QuizEngineBackend/QuizServer/bin/**
+QuizEngineBackend/QuizServer/obj/**
+QuizEngineBackend/QuizServerXUnit/bin/**
+QuizEngineBackend/QuizServerXUnit/obj/**
