@@ -168,8 +168,7 @@ namespace QuizServer
 
             }
 
-
-
+            
             return Clients.Caller.SendAsync("SendResponse", question);
 
         }
